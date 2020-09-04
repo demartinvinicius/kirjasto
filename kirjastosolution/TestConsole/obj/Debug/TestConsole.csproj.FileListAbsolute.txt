@@ -1,0 +1,7 @@
+C:\Users\demar\source\repos\demartinvinicius\kirjasto\kirjastosolution\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\demar\source\repos\demartinvinicius\kirjasto\kirjastosolution\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\demar\source\repos\demartinvinicius\kirjasto\kirjastosolution\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\demar\source\repos\demartinvinicius\kirjasto\kirjastosolution\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\Users\demar\source\repos\demartinvinicius\kirjasto\kirjastosolution\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\demar\source\repos\demartinvinicius\kirjasto\kirjastosolution\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\demar\source\repos\demartinvinicius\kirjasto\kirjastosolution\TestConsole\obj\Debug\TestConsole.pdb
